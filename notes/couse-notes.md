@@ -84,3 +84,19 @@ setTimeout(function() {
 
 - **#SOLUTION:** use callback
 
+
+---
+
+## Using Error Checking with Multiple Callbacks
+
+- how to deal with responses that don't have good data?
+- use multiple callbacks
+- if request response is 200, call success handler, otherwise call other callbacks
+
+
+##### EX: 01_05 ajax.js
+
+- first, update get() function to specify a fail() callback
+- change onload function instead of just assuming success
+
+
