@@ -67,3 +67,20 @@ setTimeout(function() {
   console.log('Hello world')
 }, 5000)
 ```
+
+- callbacks can also be used synchronously
+
+---
+
+##### EX: 01_04 tours.htm
+
+###### ERROR: Unexpected end of JSON input
+
+- Means you are trying to parse something that's not acctually JSON or that doesn't exist
+
+- we created an XHR request and sent it off to get data, but we are calling the successhandler func immediately synchronously
+
+- **#GOTCHA:** we are calling our successHandler() func before we have any data returned
+
+- **#SOLUTION:** use callback
+
