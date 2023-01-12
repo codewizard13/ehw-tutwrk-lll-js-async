@@ -3,7 +3,7 @@
 # 
 # This Filename:  .gitignore
 # Date Created:   01/19/22
-# Date Updated:   10/12/22
+# Date Updated:   01/12/23
 # Programmer:     Eric L. Hepperle
 # 
 # File Version:    1.00.00
@@ -92,6 +92,7 @@ public/assets/
 #_pix/
 #images/
 #_images/
+private/
 
 # Ignore Sandbox folders
 sb/
