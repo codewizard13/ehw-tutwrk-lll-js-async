@@ -1,0 +1,31 @@
+Exercise Files are available on GitHub
+## COURSE INFO:
+
+- Platform: LinkedIn Learning
+- Course Name: JavaScript: Async
+- Course URL: https://www.linkedin.com/learning/javascript-async/environment-setup-14340801
+
+### Instructor
+
+- Instructor Name: Sasha Vodnik
+- Instructor Tagline: Senior Technical Course Developer at DocuSign
+- Instructor URL: https://www.linkedin.com/learning/instructors/sasha-vodnik
+- Instructor Avatar URL: https://media.licdn.com/dms/image/C560DAQE4Fq-GmS8pwg/learning-author-crop_200_200/0/1576189900862?e=1674140400&v=beta&t=cBPC36QwdoKVEL8ZbHNHqq2lIjj6mikXGnEliMA_QeE
+
+### Course Details
+
+- Course Duration: 1h 31m
+- Experience Level: Intermediate
+- Updated: 10/26/2021
+
+### Course Description:
+
+
+<div>Asynchronous code is the foundation of most modern web experiences. It allows programs to switch between tasks and juggle multiple requests. However, without a thorough understanding of asynchronous programming, developers can write bloated code that works against the architecture of the web. Join Sasha Vodnik in this course, which explores asynchronous approaches to JavaScript programming using callbacks, promises, and the async/await operators in ES6. Learn what's going on line by line in your code, revisit basic structures like XMLHttpRequest (XHR) objects and setTimeout(), and discover how to use the new syntax options in JavaScript to tackle any coding challenge.</div>
+          
+
+### Skills Covered
+
+Tag String Links: [[JavaScript](https://www.linkedin.com/learning/search?keywords=JavaScript)]
+
+Tag String Text: `JavaScript`
